@@ -39,7 +39,7 @@ python game.py
 
 ## Structure du projet 
 
-- game.py : script principal
-- dist/sudoku.exe : version compilé
+- `game.py` : script principal
+- `dist/sudoku.exe` : version compilé
 
 Louis Lucky
